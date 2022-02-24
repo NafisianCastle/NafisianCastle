@@ -22,16 +22,11 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-nafis.cseaiub@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nafis.cseaiub@gmail.com)](mailto:nafis.cseaiub@gmail.com)
 
+![](https://komarev.com/ghpvc/?username=NafisianCastle&color=dc143c)
 ---
  
 <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NafisianCastle&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
- 
- 
-<!--  PROFILES VIEWS -->
-🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://komarev.com/ghpvc/?username=NafisianCastle&color=dc143c)
-
 
 <!-- GITHUB STATISTICS -->
  ![Github stats](https://github-readme-stats.vercel.app/api?username=NafisianCastle)  
