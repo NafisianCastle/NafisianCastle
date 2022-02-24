@@ -47,15 +47,3 @@
  
 <!-- ACTIVITY GRAPH TRACKER -->
 [![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=NafisianCastle&theme=react-dark)](https://github.com/NafisianCastle/github-readme-activity-graph)
-
-  
-
----
-  </code>
-</p>
-<center><img src="https://logimp.files.wordpress.com/2019/01/viral-p-1.gif?w=736&zoom=2" align="right" width="30%"></center>
-
-
-
-
-
