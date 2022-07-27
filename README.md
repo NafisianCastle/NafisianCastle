@@ -27,7 +27,7 @@
 ---
  
 <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NafisianCastle&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NafisianCastle&theme=nightowl&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- GITHUB STATISTICS -->
  ![Github stats](https://github-readme-stats.vercel.app/api?username=NafisianCastle&theme=nightowl)  
