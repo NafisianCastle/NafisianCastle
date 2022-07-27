@@ -36,4 +36,4 @@
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NafisianCastle&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
  
 <!-- ACTIVITY GRAPH TRACKER -->
-[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=NafisianCastle&theme=react)](https://github.com/NafisianCastle/github-readme-activity-graph)
+[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=NafisianCastle&theme=react-dark)](https://github.com/NafisianCastle/github-readme-activity-graph)
