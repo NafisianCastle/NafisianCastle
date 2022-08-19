@@ -11,7 +11,7 @@
 
 ✔️ I am **Md Nafisur Rahman**, currently pursuing my bachelors from AIUB, Dhaka in *Computer and Science Engineering*. <br>
 
-✔️ Currently working as a Software Engineer Intern at Digital Decoder Limited, Dhaka. <br>
+✔️ Currently working as a Junior Software Engineer at Digital Decoder Limited, Dhaka. <br>
 
 ✔️ I am interested in development and also enjoy doing competitive programming. <br>
 
