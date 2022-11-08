@@ -9,8 +9,8 @@
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
 
-✔️ I am **Md Nafisur Rahman**, currently pursuing my bachelors from AIUB, Dhaka in *Computer and Science Engineering*. <br>
-
+✔️ I am **Md Nafisur Rahman**, recently graduated from AIUB, Dhaka in *Computer and Science Engineering*. <br>
+✔️ Currently working as a Trainee Software Engineer at *WEllDev Ltd*. <br>
 ✔️ I am interested in development and also enjoy doing competitive programming. <br>
 
 <!--✔️ I have experience in FULL stack web development .<br> -->
