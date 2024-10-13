@@ -10,7 +10,7 @@
 🌱 **About myself**<br>
 
 ✔️ I am **Md Nafisur Rahman**, recently graduated from AIUB, Dhaka in *Computer and Science Engineering*. <br>
-✔️ Currently working as a *Junior Software Engineer* at **WellDev Ltd**. <br>
+✔️ Currently working as a *Software Engineer* at **WellDev Ltd**. <br>
 ✔️ I am interested in software development and also enjoy doing problem solving. <br>
 
 <!--✔️ I have experience in FULL stack web development .<br> -->
