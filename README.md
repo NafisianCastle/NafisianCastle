@@ -9,7 +9,7 @@
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
 
-✔️ I am **Md Nafisur Rahman**, recently graduated from AIUB, Dhaka in *Computer and Science Engineering*. <br>
+✔️ I am **Md Nafisur Rahman**, Software Engineer with 3+ years of experience, graduated in *Computer and Science Engineering*. <br>
 ✔️ Currently working as a *Senior Software Engineer* at **WellDev Ltd**. <br>
 ✔️ I am interested in software development and also enjoy doing problem solving. <br>
 
