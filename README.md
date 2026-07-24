@@ -24,11 +24,6 @@
 ![](https://komarev.com/ghpvc/?username=NafisianCastle&color=dc143c)
 ---
  
-<!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NafisianCastle&theme=nightowl&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- GITHUB STATISTICS -->
- ![Github stats](https://github-readme-stats.vercel.app/api?username=NafisianCastle&theme=nightowl)  
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NafisianCastle&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
