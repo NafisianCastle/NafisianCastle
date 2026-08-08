@@ -54,18 +54,18 @@
 
 <p align="center">
   <a href="https://github.com/NafisianCastle/dokanio">
-    <img height="165" src="https://github-readme-stats-nafisiancastle.vercel.app/api/pin/?username=NafisianCastle&repo=dokanio&theme=nightowl&hide_border=true"/>
+    <img height="165" src="https://github-readme-stats-nafisiancastle.vercel.app/api/pin/?username=NafisianCastle&repo=dokanio&theme=nightowl&hide_border=true&cache_bust=1"/>
   </a>
   <a href="https://github.com/NafisianCastle/finance-os">
-    <img height="165" src="https://github-readme-stats-nafisiancastle.vercel.app/api/pin/?username=NafisianCastle&repo=finance-os&theme=nightowl&hide_border=true"/>
+    <img height="165" src="https://github-readme-stats-nafisiancastle.vercel.app/api/pin/?username=NafisianCastle&repo=finance-os&theme=nightowl&hide_border=true&cache_bust=1"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/NafisianCastle/YTVidShare">
-    <img height="165" src="https://github-readme-stats-nafisiancastle.vercel.app/api/pin/?username=NafisianCastle&repo=YTVidShare&theme=nightowl&hide_border=true"/>
+    <img height="165" src="https://github-readme-stats-nafisiancastle.vercel.app/api/pin/?username=NafisianCastle&repo=YTVidShare&theme=nightowl&hide_border=true&cache_bust=1"/>
   </a>
   <a href="https://github.com/NafisianCastle/Sports-Store">
-    <img height="165" src="https://github-readme-stats-nafisiancastle.vercel.app/api/pin/?username=NafisianCastle&repo=Sports-Store&theme=nightowl&hide_border=true"/>
+    <img height="165" src="https://github-readme-stats-nafisiancastle.vercel.app/api/pin/?username=NafisianCastle&repo=Sports-Store&theme=nightowl&hide_border=true&cache_bust=1"/>
   </a>
 </p>
 
@@ -74,8 +74,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-nafisiancastle.vercel.app/api?username=NafisianCastle&show_icons=true&theme=nightowl&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats-nafisiancastle.vercel.app/api/top-langs/?username=NafisianCastle&layout=compact&theme=nightowl&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-nafisiancastle.vercel.app/api?username=NafisianCastle&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_bust=1"/>
+  <img height="165" src="https://github-readme-stats-nafisiancastle.vercel.app/api/top-langs/?username=NafisianCastle&layout=compact&theme=nightowl&hide_border=true&cache_bust=1"/>
 </p>
 
 <p align="center">
