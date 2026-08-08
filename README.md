@@ -83,9 +83,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NafisianCastle&theme=nightowl&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:512BD4&height=100&section=footer"/>
 </p>
