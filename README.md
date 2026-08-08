@@ -19,7 +19,7 @@
 <!-- SOCAIL MEDIA HANDLES -->
 [![Linkedin Badge](https://img.shields.io/badge/-nafisiancastle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nafisiancastle/)](https://www.linkedin.com/in/nafisiancastle/)
 
-[![Gmail Badge](https://img.shields.io/badge/-nafis.cseaiub@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nafis.cseaiub@gmail.com)](mailto:nafis.cseaiub@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rahman.mdnafisur1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahman.mdnafisur1@gmail.com)](mailto:rahman.mdnafisur1@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=NafisianCastle&color=dc143c)
 ---
