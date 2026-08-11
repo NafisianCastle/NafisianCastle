@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-✔️ <b>Md Nafisur Rahman</b> — Software Engineer, 4+ years experience, CSE grad<br/>
+✔️ <b>Md Nafisur Rahman</b> — Software Engineer, about 4 years of experience, CSE grad<br/>
 ✔️ Currently <b>Senior Software Engineer</b> at <b>WellDev Ltd</b><br/>
 ✔️ Building offline-first apps, POS/inventory systems, and web platforms — .NET on the backend, Next.js on the front<br/>
 ✔️ Currently working on <a href="https://github.com/NafisianCastle/finance-os"><b>finance-os</b></a> — a local-first personal finance PWA<br/>
