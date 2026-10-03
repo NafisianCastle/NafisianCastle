@@ -50,26 +50,7 @@
 
 ---
 
-### 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/NafisianCastle/dokanio">
-    <img height="165" src="https://github-readme-stats-nafisiancastle.vercel.app/api/pin/?username=NafisianCastle&repo=dokanio&theme=nightowl&hide_border=true&cache_bust=1"/>
-  </a>
-  <a href="https://github.com/NafisianCastle/finance-os">
-    <img height="165" src="https://github-readme-stats-nafisiancastle.vercel.app/api/pin/?username=NafisianCastle&repo=finance-os&theme=nightowl&hide_border=true&cache_bust=1"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/NafisianCastle/YTVidShare">
-    <img height="165" src="https://github-readme-stats-nafisiancastle.vercel.app/api/pin/?username=NafisianCastle&repo=YTVidShare&theme=nightowl&hide_border=true&cache_bust=1"/>
-  </a>
-  <a href="https://github.com/NafisianCastle/Sports-Store">
-    <img height="165" src="https://github-readme-stats-nafisiancastle.vercel.app/api/pin/?username=NafisianCastle&repo=Sports-Store&theme=nightowl&hide_border=true&cache_bust=1"/>
-  </a>
-</p>
-
----
 
 ### 📊 GitHub Stats
 
